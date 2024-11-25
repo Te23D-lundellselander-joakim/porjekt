@@ -55,4 +55,16 @@ margin-right:50px ;
     margin: 10px 0;
     border-radius: 5px;
     background-color: #f9f9f9;
+max-width: 750px;
+  }
+  .reason-box {
+    border: 2px solid black;
+    padding: 15px;
+    margin: 20px auto;
+    max-width: 600px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
 }
